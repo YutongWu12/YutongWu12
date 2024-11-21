@@ -4,7 +4,7 @@
 - 🌱 **I’m currently learning:** Advanced quantitative methods, machine learning applications in finance, and portfolio optimization.
 - 💡 **I’m looking to collaborate on:** Open-source projects related to financial modeling, predictive analytics, and risk management frameworks.
 - 📫 **How to reach me:**  
-  [Email](mailto:yw8342@nyu.edu) | [LinkedIn](https://www.linkedin.com/in/minnie-yutong-wu)
+  [Email](mailto:yw8342@nyu.edu) （yw8342@nyu.edu) | [LinkedIn](https://www.linkedin.com/in/minnie-yutong-wu)
 - 🎯 **Fun fact:** I love using mathematical models to find patterns in noisy data, and I enjoy optimizing trading strategies for real-world applications.
 
 ---
