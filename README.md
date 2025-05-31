@@ -12,7 +12,7 @@
 **Key Projects:**
 - 🌟 [FRE-GY5040-Machine-Learning-for-Finance-with-Python](https://github.com/YutongWu12/FRE-GY5040-Machine-Learning-for-Finance-with-Python): A comprehensive project exploring financial data analysis using machine learning models, covering regression, classification, and time series forecasting.
 - 🔍 [Bankruptcy-Risk-Prediction-Using-Machine-Learning-Models](https://github.com/YutongWu12/Bankruptcy-Risk-Prediction-Using-Machine-Learning-Models): An in-depth analysis of bankruptcy risk leveraging supervised machine learning models like Random Forest and CatBoost to predict financial distress effectively.
-- 📊 [Impact-of-Rebalancing-Frequencies-on-Alpha-in-Small-Cap-Equal-Weighted-Portfolio](https://github.com/YutongWu12/Bankruptcy-Risk-Prediction-Using-Machine-Learning-Models): A study on portfolio management strategies focusing on rebalancing frequency and its effects on alpha generation in small-cap equal-weighted portfolios.
+- 📊 [Impact-of-Rebalancing-Frequencies-on-Alpha-in-Small-Cap-Equal-Weighted-Portfolio](https://github.com/YutongWu12/Impact-of-Rebalancing-Frequencies-on-Alpha-in-Small-Cap-Equal-Weighted-Portfolios): A study on portfolio management strategies focusing on rebalancing frequency and its effects on alpha generation in small-cap equal-weighted portfolios.
 
 ---
 
