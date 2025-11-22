@@ -14,6 +14,8 @@
 - 🔍 [Bankruptcy-Risk-Prediction-Using-Machine-Learning-Models](https://github.com/YutongWu12/Bankruptcy-Risk-Prediction-Using-Machine-Learning-Models): An in-depth analysis of bankruptcy risk leveraging supervised machine learning models like Random Forest and CatBoost to predict financial distress effectively.
 - 📊 [Impact-of-Rebalancing-Frequencies-on-Alpha-in-Small-Cap-Equal-Weighted-Portfolio](https://github.com/YutongWu12/Impact-of-Rebalancing-Frequencies-on-Alpha-in-Small-Cap-Equal-Weighted-Portfolios): A study on portfolio management strategies focusing on rebalancing frequency and its effects on alpha generation in small-cap equal-weighted portfolios.
 - 🧮 [FRE-GY6883-Financial-Computing-with-Cpp](https://github.com/YutongWu12/FRE-GY6883-Financial-Computing-with-Cpp): A full-stack C++ application of financial engineering techniques including binomial pricing, Monte Carlo simulation, function pointers, class templates, and historical data integration. Built entirely on AWS EC2 Linux with Makefile-based automation. 
+- 📊 [FRE-6191-Financial-Visualization—VIX-Sentiment-Dashboard](https://github.com/YutongWu12/FRE-6191-Financial-Visualization): An interactive VIX-driven multi-asset analysis dashboard built with Python, Dash, and Plotly, visualizing regime-based returns, volatility, correlations, and tactical allocation strategies.
+
 
 ---
 
